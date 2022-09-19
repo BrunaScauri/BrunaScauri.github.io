@@ -5,4 +5,7 @@
 # BrunaScauri - Portfolio online
 
 ## 🛠 Ferramentas utilizadas
-Javascript, HTML, CSS.
+- JavaScript
+- HTML
+- CSS
+- React
